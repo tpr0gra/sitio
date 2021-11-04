@@ -1,0 +1,12 @@
+body{width: 1366 px;
+
+}
+#contenedor {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#contenedor h1{
+    text-align: center;
+}
